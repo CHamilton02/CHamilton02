@@ -6,7 +6,7 @@
 
 <img src="https://myreadme.vercel.app/api/embed/CHamilton02?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
-[![CHamilton02's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=c02hamil)](https://github.com/CHamilton02/github-readme)
+![Leetcode Stats](https://leetcard.jacoblin.cool/c02hamil?theme=unicorn)
 
 <!---
 CHamilton02/CHamilton02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
