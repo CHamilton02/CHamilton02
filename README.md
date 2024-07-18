@@ -5,6 +5,8 @@
 - 📫 How to reach me: email (c02hamil@gmail.com)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=CHamilton02&theme=tokyonight" alt="mystreak"/>
+
+<img src="https://myreadme.vercel.app/api/embed/C02Hamil?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 <!---
 CHamilton02/CHamilton02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
