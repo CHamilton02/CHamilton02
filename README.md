@@ -4,9 +4,9 @@
 - 📈 I primarily use this profile to keep track of my progress in acquiring knowledge and building projects in computer science. Additionally, I enjoy showcasing my progress to others who are interested.
 - 📫 How to reach me: email (c02hamil@gmail.com)
 
-<img src="https://myreadme.vercel.app/api/embed/CHamilton02?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-
 ![Leetcode Stats](https://leetcard.jacoblin.cool/c02hamil?theme=unicorn)
+
+<img src="https://myreadme.vercel.app/api/embed/CHamilton02?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 <!---
 CHamilton02/CHamilton02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
