@@ -4,7 +4,7 @@
 - 📈 I primarily use this profile to keep track of my progress in acquiring knowledge and building projects in computer science. Additionally, I enjoy showcasing my progress to others who are interested.
 - 📫 How to reach me: email (c02hamil@gmail.com)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CHamilton02&theme=tokyonight" alt="mystreak"/>
 <!---
 CHamilton02/CHamilton02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
