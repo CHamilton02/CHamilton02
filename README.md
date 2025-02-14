@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @CHamilton02 (Camdyn)
-- 👀 I’m interested in sports, Japanese culture, and anything technology!
-- 🌱 I’m currently learning Computer Science at York University
-- 📈 I primarily use this profile to keep track of my progress in acquiring knowledge and building projects in computer science. Additionally, I enjoy showcasing my progress to others who are interested.
-- 📫 How to reach me: email (c02hamil@gmail.com)
+👋 Hi, I'm Camdyn (most people call me Cam)
+💻 I'm a CS student at YorkU
+🚀 Currently working on my web dev skills and building cool projects!
+👀 Interested in the applications of AI and operating systems
 
 <!---
 CHamilton02/CHamilton02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
